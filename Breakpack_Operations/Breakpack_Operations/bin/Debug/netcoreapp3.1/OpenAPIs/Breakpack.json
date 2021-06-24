@@ -1,0 +1,83 @@
+{
+    "openapi": "3.0.4",
+    "info": {
+        "title": "API V3",
+        "version": "v3"
+    },
+    "paths": {
+        "/api/GetPayment": {
+            "get": {
+                "tags": [
+                    "Test"
+                ],
+                "operationId": "Test",
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "text/plain": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/GetPayment"
+                                    }
+                                }
+                            },
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/GetPayment"
+                                    }
+                                }
+                            },
+                            "text/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/GetPayment"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "post": {
+                "…"
+            }
+        },
+        "/api/Test/{id}": {
+            "get": {
+                "…"
+            },
+            "put": {
+                "…"
+            },
+            "delete": {
+                "…"
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "ToDoItem": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "format": "int32"
+                    },
+                    "name": {
+                        "type": "string",
+                        "nullable": true
+                    },
+                    "isCompleted": {
+                        "type": "boolean"
+                    }
+                },
+                "additionalProperties": false
+            }
+        }
+    }
+}
