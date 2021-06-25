@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp1</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp1</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Docker.DotNet" version="3.125.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" version="1.10.13" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ramesh Palani Swamy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json" target="lib\netcoreapp3.1\ConsoleApp1.runtimeconfig.json" />
+    <file src="C:\Users\Ramesh Palani Swamy\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll" target="lib\netcoreapp3.1\ConsoleApp1.dll" />
+  </files>
+</package>
