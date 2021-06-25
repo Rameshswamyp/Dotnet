@@ -13,3 +13,4 @@ C:\Users\Ramesh Palani Swamy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netc
 C:\Users\Ramesh Palani Swamy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\Ramesh Palani Swamy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\Ramesh Palani Swamy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
