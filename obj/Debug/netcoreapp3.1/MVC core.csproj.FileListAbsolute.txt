@@ -1,0 +1,36 @@
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.exe
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.deps.json
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.runtimeconfig.json
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.runtimeconfig.dev.json
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.dll
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.pdb
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.Views.dll
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\bin\Debug\netcoreapp3.1\MVC core.Views.pdb
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.AssemblyInfoInputs.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.AssemblyInfo.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.csproj.CoreCompileInputs.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.RazorAssemblyInfo.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.RazorAssemblyInfo.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\staticwebassets\MVC core.StaticWebAssets.Manifest.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\staticwebassets\MVC core.StaticWebAssets.xml
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVC core.styles.css
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.TagHelpers.input.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.TagHelpers.output.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.RazorCoreGenerate.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.RazorTargetAssemblyInfo.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.RazorTargetAssemblyInfo.cs
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.Views.pdb
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.dll
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.pdb
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.genruntimeconfig.cache
+C:\Users\Ramesh Palani Swamy\source\repos\ASP.net core_sample\MVC core\MVC core\obj\Debug\netcoreapp3.1\MVC core.csproj.CopyComplete
